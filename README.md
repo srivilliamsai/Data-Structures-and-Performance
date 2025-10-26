@@ -144,15 +144,18 @@ This repository is based on:
 
 > **UC San Diego – Data Structures and Performance**
 > *(Part of the “Java Programming: Arrays, Lists, and Structured Data” specialization on Coursera)*
+> 
 > [🔗 Course Link](https://www.coursera.org/learn/data-structures-optimizing-performance)
 
 ---
 
 ### 👨‍💻 Author
 
-**Sri Villiam Sai**
-💼 Software Developer | Building full-stack apps with Java, Spring Boot, Node.js, and Flutter 🚀
-📧 [srivilliamsai@gmail.com](mailto:srivilliamsai@gmail.com)
+**Sri Villiam Sai 🧑‍💻**  
+Software Developer | Building full-stack apps with Java, Spring Boot, Node.js, and Flutter 🚀  
+
+📧 [sriwilliamsai@gmail.com](mailto:sriwilliamsai@gmail.com)  
 🌐 [GitHub: srivilliamsai](https://github.com/srivilliamsai)
+
 
 ---
