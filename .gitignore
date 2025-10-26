@@ -1,0 +1,29 @@
+# ===== OS and System Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Eclipse / IntelliJ / VSCode =====
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# ===== Build Output =====
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# ===== Temporary or Backup Files =====
+*~
+*.tmp
+*.bak
+*.swp
+
+# ===== macOS specific =====
+__MACOSX/
