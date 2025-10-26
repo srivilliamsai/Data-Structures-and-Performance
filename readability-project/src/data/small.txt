@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. 
+This simple sentence has been used for decades to test typing and fonts. 
+It contains every letter of the English alphabet, making it a fun example for readability testing.

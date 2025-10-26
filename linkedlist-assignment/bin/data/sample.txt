@@ -1,0 +1,5 @@
+Linked List Data Structure Example
+This file contains sample text used to test file reading or benchmarking.
+A linked list stores data in nodes connected by references.
+Each node contains data and pointers to the next and previous nodes.
+Use this text for performance or file-reading tests in your project.
